@@ -1,10 +1,10 @@
 # Economics of Agriculture
 
-## **Course Code:** ECOCOO703
+### **Course Code:** ECOCOO703
 
-## **Ph.D. Coursework**
+### **Ph.D. Coursework**
 
-## **Course Learning Outcomes**
+### **Course Learning Outcomes**
 
 On completion of the course, the students will be able to:
 
