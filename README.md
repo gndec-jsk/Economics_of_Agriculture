@@ -22,7 +22,7 @@ On completion of the course, the students will be able to:
 * Technology Adoptions (Adoption and Diffusion, Risk Management, Institutional Constraints to Innovations and Farm Policy)
 * Ruttan-Hayami Induced Innovation Hypothesis
 
-## **2. Agricultural Commodity Futures and Options**
+## **2. [Agricultural Commodity Futures and Options](Notes/2.md)**
 
 * Nature and Principles of Future Markets
 * Participants in Future Markets
@@ -36,7 +36,7 @@ On completion of the course, the students will be able to:
 * Selection and Evolution of Options
 * Food Processing Policy of India, 2005
 
-## **4. Agricultural Finance**
+## **4. [Agricultural Finance](Notes/4.md)**
 
 * Agency Relationship
 * Adverse Selection
