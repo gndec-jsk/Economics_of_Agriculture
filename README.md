@@ -29,7 +29,7 @@ On completion of the course, the students will be able to:
 * Trading in the Presence of Risk Aversions and Transaction Costs
 * Future Prices as Expectations
 
-## **3. [Agro-processing](Notes/1.md)**
+## **3. [Agro-processing](Notes/3.md)**
 
 * Specificities of Agro-processing
 * Developmental Role of Agro-processing Industries
