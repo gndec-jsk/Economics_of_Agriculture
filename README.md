@@ -8,10 +8,10 @@
 
 On completion of the course, the students will be able to:
 
-a. Analyze the role of agricultural innovations in transforming agriculture.
-b. Evaluate the nature and principles of agricultural commodity futures and options, including risk management strategies and their importance for price futures in agricultural markets.
-c. Assess the developmental role of agro-processing industries and the impact of food processing policies in India, focusing on selection, evolution, role and processing industries.
-d. Examine the political economy of agricultural policies, food security mechanisms, and the challenges and opportunities in Indian agriculture post-reform, emphasizing the importance of human capital formation in agrarian economies.
+- Analyze the role of agricultural innovations in transforming agriculture.
+- Evaluate the nature and principles of agricultural commodity futures and options, including risk management strategies and their importance for price futures in agricultural markets.
+- Assess the developmental role of agro-processing industries and the impact of food processing policies in India, focusing on selection, evolution, role and processing industries.
+- Examine the political economy of agricultural policies, food security mechanisms, and the challenges and opportunities in Indian agriculture post-reform, emphasizing the importance of human capital formation in agrarian economies.
 
 # **Unit – I**
 
@@ -29,7 +29,7 @@ d. Examine the political economy of agricultural policies, food security mechani
 * Trading in the Presence of Risk Aversions and Transaction Costs
 * Future Prices as Expectations
 
-## **3. Agro-processing**
+## **3. [Agro-processing](Notes/1.md)**
 
 * Specificities of Agro-processing
 * Developmental Role of Agro-processing Industries
